@@ -1,4 +1,4 @@
-,Movie Name,Year of Release,Watch Time,Movie Rating,Metascore of movie,Gross,Votes,Description
+ID,Movie_Name,Year_of_Release,Watch_Time,Movie_Rating,Metascore,Gross,Votes,Description
 0,The Shawshank Redemption,1994,142,9.3,82,28.34,"27,77,378","Over the course of several years, two convicts form a friendship, seeking consolation and, eventually, redemption through basic compassion."
 1,The Godfather,1972,175,9.2,100,134.97,"19,33,588","Don Vito Corleone, head of a mafia family, decides to hand over his empire to his youngest son Michael. However, his decision unintentionally puts the lives of his loved ones in grave danger."
 2,The Dark Knight,2008,152,9,84,534.86,"27,54,087","When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice."
@@ -58,13 +58,13 @@
 56,Nuovo Cinema Paradiso,1988,155,8.5,80,11.99,"2,71,463",A filmmaker recalls his childhood when falling in love with the pictures at the cinema of his home village and forms a deep friendship with the cinema's projectionist.
 57,City Lights,1931,87,8.5,99,0.02,"1,90,158","With the aid of a wealthy erratic tippler, a dewy-eyed tramp who has fallen in love with a sightless flower girl accumulates money to be able to help her medically."
 58,Modern Times,1936,87,8.5,96,0.16,"2,50,746",The Tramp struggles to live in modern industrial society with the help of a young homeless woman.
-59,96,II 2018,158,8.5,,,"33,646",Two high school sweethearts meet at a reunion after 22 years and reminisce about their past.
+59,96,2018,158,8.5,,,"33,646",Two high school sweethearts meet at a reunion after 22 years and reminisce about their past.
 60,Memento,2000,113,8.4,83,25.54,"12,77,091",A man with short-term memory loss attempts to track down his wife's murderer.
 61,The Dark Knight Rises,2012,164,8.4,78,448.14,"17,61,545","Eight years after the Joker's reign of chaos, Batman is coerced out of exile with the assistance of the mysterious Selina Kyle in order to defend Gotham City from the vicious guerrilla terrorist Bane."
 62,Spider-Man: Into the Spider-Verse,2018,117,8.4,87,190.24,"6,15,401",Teen Miles Morales becomes the Spider-Man of his universe and must join with five spider-powered individuals from other dimensions to stop a threat for all realities.
 63,Raiders of the Lost Ark,1981,115,8.4,85,248.16,"10,06,763","In 1936, archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before the Nazis can obtain its awesome powers."
 64,Django Unchained,2012,165,8.4,81,162.81,"16,19,946","With the help of a German bounty-hunter, a freed slave sets out to rescue his wife from a brutal plantation owner in Mississippi."
-65,Joker,I 2019,122,8.4,59,335.45,"13,81,002","The rise of Arthur Fleck, from aspiring stand-up comedian and pariah to Gotham's clown prince and leader of the revolution."
+65,Joker,2019,122,8.4,59,335.45,"13,81,002","The rise of Arthur Fleck, from aspiring stand-up comedian and pariah to Gotham's clown prince and leader of the revolution."
 66,Avengers: Endgame,2019,181,8.4,78,858.37,"12,00,821","After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe."
 67,The Shining,1980,146,8.4,66,44.02,"10,60,625","A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future."
 68,Aliens,1986,137,8.4,84,85.16,"7,38,697","Decades after surviving the Nostromo incident, Ellen Ripley is sent out to re-establish contact with a terraforming colony but finds herself battling the Alien Queen and her offspring."
@@ -76,7 +76,7 @@
 74,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,95,8.4,97,0.28,"5,03,942","An insane American general orders a bombing attack on the Soviet Union, triggering a path to nuclear holocaust that a war room full of politicians and generals frantically tries to stop."
 75,The Lives of Others,2006,137,8.4,89,11.29,"3,99,279","In 1984 East Berlin, an agent of the secret police, conducting surveillance on a writer and his lover, finds himself becoming increasingly absorbed by their lives."
 76,Kimi no na wa.,2016,106,8.4,81,5.02,"2,93,932","Two teenagers share a profound, magical connection upon discovering they are swapping bodies. Things manage to become even more complicated when the boy and girl decide to meet in person."
-77,Coco,I 2017,105,8.4,81,209.73,"5,46,380","Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer."
+77,Coco,2017,105,8.4,81,209.73,"5,46,380","Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer."
 78,WALL·E,2008,98,8.4,95,223.81,"11,55,638","In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind."
 79,Capharnaüm,2018,126,8.4,75,1.66,"97,339","While serving a five-year sentence for a violent crime, a 12-year-old boy sues his parents for neglect."
 80,3 Idiots,2009,170,8.4,67,6.53,"4,15,008","Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them ""idiots""."
@@ -162,7 +162,7 @@
 160,Finding Nemo,2003,100,8.2,90,380.84,"10,76,596","After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home."
 161,L.A. Confidential,1997,138,8.2,91,64.62,"5,97,783","As corruption grows in 1950s Los Angeles, three policemen - one strait-laced, one brutal, and one sleazy - investigate a series of murders with their own brand of justice."
 162,V for Vendetta,2005,132,8.2,62,70.51,"11,48,235","In a future British dystopian society, a shadowy freedom fighter, known only by the alias of ""V"", plots to overthrow the tyrannical government - with the help of a young woman."
-163,The Father,I 2020,97,8.2,88,132,"1,73,861","A man refuses all assistance from his daughter as he ages. As he tries to make sense of his changing circumstances, he begins to doubt his loved ones, his own mind and even the fabric of his reality."
+163,The Father,2020,97,8.2,88,132,"1,73,861","A man refuses all assistance from his daughter as he ages. As he tries to make sense of his changing circumstances, he begins to doubt his loved ones, his own mind and even the fabric of his reality."
 164,Der Untergang,2004,156,8.2,82,5.51,"3,64,966","Traudl Junge, the final secretary for Adolf Hitler, tells of the Nazi dictator's final days in his Berlin bunker at the end of WWII."
 165,Pan's Labyrinth,2006,118,8.2,98,37.63,"6,85,345","In the Falangist Spain of 1944, the bookish young stepdaughter of a sadistic army officer escapes into an eerie but captivating fantasy world."
 166,Chinatown,1974,130,8.2,92,157,"3,37,525","A private detective hired to expose an adulterer in 1930s Los Angeles finds himself caught up in a web of deceit, corruption, and murder."
@@ -231,7 +231,7 @@
 229,Logan,2017,137,8.1,77,226.28,"7,97,391","In a future where mutants are nearly extinct, an elderly and weary Logan leads a quiet life. But when Laura, a mutant child pursued by scientists, comes to him for help, he must get her to safety."
 230,"Three Billboards Outside Ebbing, Missouri",2017,115,8.1,88,54.51,"5,31,697",A mother personally challenges the local authorities to solve her daughter's murder when they fail to catch the culprit.
 231,Fargo,1996,98,8.1,86,24.61,"6,98,098",Minnesota car salesman Jerry Lundegaard's inept crime falls apart due to his and his henchmen's bungling and the persistent police work of the quite pregnant Marge Gunderson.
-232,Inside Out,I 2015,95,8.1,94,356.46,"7,46,886","After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions - Joy, Fear, Anger, Disgust and Sadness - conflict on how best to navigate a new city, house, and school."
+232,Inside Out,2015,95,8.1,94,356.46,"7,46,886","After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions - Joy, Fear, Anger, Disgust and Sadness - conflict on how best to navigate a new city, house, and school."
 233,Rocky,1976,120,8.1,70,117.24,"6,05,128",A small-time Philadelphia boxer gets a supremely rare chance to fight the world heavyweight champion in a bout in which he strives to go the distance for his self-respect.
 234,Dead Poets Society,1989,128,8.1,79,95.86,"5,16,660",Maverick teacher John Keating uses poetry to embolden his boarding school students to new heights of self-expression.
 235,The Wizard of Oz,1939,102,8.1,92,2.08,"4,14,083","Young Dorothy Gale and her dog Toto are swept away by a tornado from their Kansas farm to the magical Land of Oz, and embark on a quest with three new friends to see the Wizard, who can return her to her home and fulfill the others' wishes."
@@ -239,13 +239,13 @@
 237,Into the Wild,2007,148,8.1,73,18.35,"6,39,564","After graduating from Emory University, top student and athlete Christopher McCandless abandons his possessions, gives his entire $24,000 savings account to charity and hitchhikes to Alaska to live in the wilderness. Along the way, Christopher encounters a series of characters that shape his life."
 238,Warrior,2011,140,8.1,71,13.66,"4,85,065","The youngest son of an alcoholic former boxer returns home, where he's trained by his father for competition in a mixed martial arts tournament - a path that puts the fighter on a collision course with his estranged, older brother."
 239,Trainspotting,1996,93,8.1,83,16.5,"7,05,757","Renton, deeply immersed in the Edinburgh drug scene, tries to clean up and get out, despite the allure of the drugs and influence of friends."
-240,Spotlight,I 2015,129,8.1,93,45.06,"4,86,300","The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core."
+240,Spotlight,2015,129,8.1,93,45.06,"4,86,300","The true story of how the Boston Globe uncovered the massive scandal of child molestation and cover-up within the local Catholic Archdiocese, shaking the entire Catholic Church to its core."
 241,Platoon,1986,120,8.1,92,138.53,"4,26,296","Chris Taylor, a neophyte recruit in Vietnam, finds himself caught in a battle of wills between two sergeants, one good and the other evil. A shrewd examination of the brutality of war and the duality of man in conflict."
 242,"Monsters, Inc.",2001,92,8.1,79,289.92,"9,42,241","In order to power the city, monsters have to scare children so that they scream. However, the children are toxic to the monsters, and after a child gets through, two monsters realize things may not be what they think."
 243,Before Sunrise,1995,101,8.1,77,5.54,"3,24,483","A young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together."
-244,Rush,I 2013,123,8.1,74,26.95,"4,95,815",The merciless 1970s rivalry between Formula One rivals James Hunt and Niki Lauda.
+244,Rush,2013,123,8.1,74,26.95,"4,95,815",The merciless 1970s rivalry between Formula One rivals James Hunt and Niki Lauda.
 245,"Lock, Stock and Two Smoking Barrels",1998,107,8.1,66,3.9,"5,99,221","Eddy persuades his three pals to pool money for a vital poker game against a powerful local mobster, Hatchet Harry. Eddy loses, after which Harry gives him a week to pay back 500,000 pounds."
-246,Room,I 2015,118,8.1,86,14.68,"4,35,564","A little boy is held captive in a room with his mother since his birth, so he has never known the world outside."
+246,Room,2015,118,8.1,86,14.68,"4,35,564","A little boy is held captive in a room with his mother since his birth, so he has never known the world outside."
 247,Portrait de la jeune fille en feu,2019,122,8.1,95,3.76,"1,00,794","On an isolated island in Brittany at the end of the eighteenth century, a female painter is obliged to paint a wedding portrait of a young woman."
 248,The Deer Hunter,1978,183,8.1,86,48.98,"3,49,246",An in-depth examination of the ways in which the Vietnam War impacts and disrupts the lives of several friends in a small steel mill town in Pennsylvania.
 249,The Sound of Music,1965,172,8.1,63,163.21,"2,47,286",A young novice is sent by her convent in 1930s Austria to become a governess to the seven children of a widowed naval officer.
@@ -263,7 +263,7 @@
 261,The Red Shoes,1948,135,8.1,,10.9,"37,278",A young ballet dancer is torn between the man she loves and her pursuit to become a prima ballerina.
 262,In the Name of the Father,1993,133,8.1,84,25.01,"1,81,367",A man's coerced confession to an I.R.A. bombing he did not commit results in the imprisonment of his father as well. An English lawyer fights to free them.
 263,Hachi: A Dog's Tale,2009,93,8.1,,236,"2,98,283",A college professor bonds with an abandoned dog he takes into his home.
-264,Network,1976,121,8.1,83,#222,"1,64,777","A television network cynically exploits a deranged former anchor's ravings and revelations about the news media for its own profit, but finds that his message may be difficult to control."
+264,Network,1976,121,8.1,83,222,"1,64,777","A television network cynically exploits a deranged former anchor's ravings and revelations about the news media for its own profit, but finds that his message may be difficult to control."
 265,Ben-Hur,1959,212,8.1,90,74.7,"2,46,746","After a Jewish prince is betrayed and sent into slavery by a Roman friend in 1st-century Jerusalem, he regains his freedom and comes back for revenge."
 266,The Iron Giant,1999,86,8.1,85,23.16,"2,13,283",A young boy befriends a giant robot from outer space that a paranoid government agent wants to destroy.
 267,Det sjunde inseglet,1957,96,8.1,88,206,"1,91,678","A knight returning to Sweden after the Crusades seeks answers about life, death, and the existence of God as he plays chess against the Grim Reaper during the Black Plague."
@@ -331,7 +331,7 @@
 329,La Grande Illusion,1937,113,8.1,,0.17,"37,887","During WWI, two French soldiers are captured and imprisoned in a German P.O.W. camp. Several escape attempts follow until they are eventually sent to a seemingly inescapable fortress."
 330,Article 15,2019,130,8.1,,,"35,490","In the rural heartlands of India, an upright police officer sets out on a crusade against violent caste-based crimes and discrimination."
 331,OMG: Oh My God!,2012,125,8.1,,0.92,"61,292",A shopkeeper takes God to court when his shop is destroyed by an earthquake.
-332,Pink,III 2016,136,8.1,,1.24,"46,744","When three young women are implicated in a crime, a retired lawyer steps forward to help them clear their names."
+332,Pink,2016,136,8.1,,1.24,"46,744","When three young women are implicated in a crime, a retired lawyer steps forward to help them clear their names."
 333,Jean de Florette,1986,120,8.1,,4.94,"26,827",A greedy landowner and his backward nephew conspire to block the only water source for an adjoining property in order to bankrupt the owner and force him to sell.
 334,Munna Bhai M.B.B.S.,2003,156,8.1,,,"85,192",A gangster sets out to fulfill his father's dream of becoming a doctor.
 335,Mandariinid,2013,87,8.1,73,0.14,"47,771","In 1992, war rages in Abkhazia, a breakaway region of Georgia. An Estonian man Ivo has decided to stay behind and harvest his crops of tangerines. In a bloody conflict at his door, a wounded man is left behind, and Ivo takes him in."
@@ -349,7 +349,7 @@
 347,La La Land,2016,128,8,94,151.1,"6,25,365","While navigating their careers in Los Angeles, a pianist and an actress fall in love while attempting to reconcile their aspirations for the future."
 348,Guardians of the Galaxy,2014,121,8,76,333.18,"12,33,511",A group of intergalactic criminals must pull together to stop a fanatical warrior with plans to purge the universe.
 349,The Imitation Game,2014,114,8,71,91.13,"7,96,469","During World War II, the English mathematical genius Alan Turing tries to crack the German Enigma code with help from fellow mathematicians while attempting to come to terms with his troubled private life."
-350,The Revenant,I 2015,156,8,76,183.64,"8,36,807",A frontiersman on a fur trading expedition in the 1820s fights for survival after being mauled by a bear and left for dead by members of his own hunting team.
+350,The Revenant,2015,156,8,76,183.64,"8,36,807",A frontiersman on a fur trading expedition in the 1820s fights for survival after being mauled by a bear and left for dead by members of his own hunting team.
 351,The Martian,2015,144,8,80,228.43,"8,88,025","An astronaut becomes stranded on Mars after his team assume him dead, and must rely on his ingenuity to find a way to signal to Earth that he is alive and can survive until a potential rescue."
 352,Deadpool,2016,108,8,65,363.07,"10,79,838","A wisecracking mercenary gets experimented on and becomes immortal yet hideously scarred, and sets out to track down the man who ruined his looks."
 353,The Princess Bride,1987,98,8,77,30.86,"4,38,629","A bedridden boy's grandfather reads him the story of a farmboy-turned-pirate who encounters numerous obstacles, enemies and allies in his quest to be reunited with his true love."
@@ -394,7 +394,7 @@
 392,Lion,2016,118,8,69,51.74,"2,44,006","A five-year-old Indian boy is adopted by an Australian couple after getting lost hundreds of kilometers from home. 25 years later, he sets out to find his lost family."
 393,Chung Hing sam lam,1994,102,8,78,0.6,"89,420","Two melancholy Hong Kong policemen fall in love: one with a mysterious female underworld figure, the other with a beautiful and ethereal waitress at a late-night restaurant he frequents."
 394,Butch Cassidy and the Sundance Kid,1969,110,8,66,102.31,"2,21,995","Wyoming, early 1900s. Butch Cassidy and The Sundance Kid are the leaders of a band of outlaws. After a train robbery goes wrong they find themselves on the run with a posse hard on their heels. Their solution - escape to Bolivia."
-395,Mommy,I 2014,139,8,74,3.49,"59,678","A widowed single mother, raising her violent son alone, finds new hope when a mysterious neighbor inserts herself into their household."
+395,Mommy,2014,139,8,74,3.49,"59,678","A widowed single mother, raising her violent son alone, finds new hope when a mysterious neighbor inserts herself into their household."
 396,Annie Hall,1977,93,8,92,39.2,"2,71,517","Alvy Singer, a divorced Jewish comedian, reflects on his relationship with ex-lover Annie Hall, an aspiring nightclub singer, which ended abruptly just like his previous marriages."
 397,Ip Man,2008,106,8,59,,"2,29,635","During the Japanese invasion of China, a wealthy martial artist is forced to leave his home when his city is occupied. With little means of providing for themselves, Ip Man and the remaining members of the city must find a way to survive."
 398,Sling Blade,1996,135,8,84,24.48,"96,594","Karl Childers, a simple man hospitalized since his childhood murder of his mother and her lover, is released to start a new life in a small town."
@@ -443,7 +443,7 @@
 441,Yeopgijeogin geunyeo,2001,137,8,,,"49,515","A young man sees a drunk, cute woman standing too close to the tracks at a metro station in Seoul and pulls her back. She ends up getting him into trouble repeatedly after that, starting on the train."
 442,Sleuth,1972,138,8,,4.08,"49,065","A man who loves games and theater invites his wife's lover to meet him, setting up a battle of wits with potentially deadly results."
 443,Sweet Smell of Success,1957,96,8,100,,"34,241",Powerful but unethical Broadway columnist J.J. Hunsecker coerces unscrupulous press agent Sidney Falco into breaking up his sister's romance with a jazz musician.
-444,Mar adentro,I 2004,126,8,74,2.09,"83,743","The factual story of Spaniard Ramon Sampedro, who fought a 28-year campaign in favor of euthanasia and his own right to die."
+444,Mar adentro,2004,126,8,74,2.09,"83,743","The factual story of Spaniard Ramon Sampedro, who fought a 28-year campaign in favor of euthanasia and his own right to die."
 445,Viskningar och rop,1972,91,8,,1.74,"35,743","When a woman dying of cancer in early twentieth-century Sweden is visited by her two sisters, long-repressed feelings between the siblings rise to the surface."
 446,Persepolis,2007,96,8,90,4.45,"97,675",A precocious and outspoken Iranian girl grows up during the Islamic Revolution.
 447,Stalag 17,1953,120,8,84,,"57,352","After two Americans are killed while escaping from a German P.O.W. camp in World War II, the barracks black marketeer, J.J. Sefton, is suspected of being an informer."
@@ -475,7 +475,7 @@
 473,Titanic,1997,194,7.9,75,659.33,"12,38,632","A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic."
 474,Zack Snyder's Justice League,2021,242,7.9,54,,"4,20,074","Determined to ensure that Superman's ultimate sacrifice wasn't in vain, Bruce Wayne recruits a team of metahumans to protect the world from an approaching threat of catastrophic proportions."
 475,Avatar,2009,162,7.9,83,760.51,"13,55,689",A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.
-476,Arrival,II 2016,116,7.9,81,100.55,"7,28,588",A linguist works with the military to communicate with alien lifeforms after twelve mysterious spacecraft appear around the world.
+476,Arrival,2016,116,7.9,81,100.55,"7,28,588",A linguist works with the military to communicate with alien lifeforms after twelve mysterious spacecraft appear around the world.
 477,Knives Out,2019,130,7.9,82,165.36,"7,35,106","A detective investigates the death of the patriarch of an eccentric, combative family."
 478,Edge of Tomorrow,2014,113,7.9,71,100.21,"7,07,149","A soldier fighting aliens gets to relive the same day over and over again, the day restarting every time he dies."
 479,Bohemian Rhapsody,2018,134,7.9,49,216.43,"5,62,655","The story of the legendary British rock band Queen and lead singer Freddie Mercury, leading up to their famous performance at Live Aid (1985)."
@@ -500,7 +500,7 @@
 498,Shaun of the Dead,2004,99,7.9,76,13.54,"5,75,899","The uneventful, aimless lives of a London electronics salesman and his layabout roommate are disrupted by the zombie apocalypse."
 499,X-Men: Days of Future Past,2014,132,7.9,75,233.92,"7,29,460",The X-Men send Wolverine to the past in a desperate effort to change history and prevent an event that results in doom for both humans and mutants.
 500,Children of Men,2006,109,7.9,84,35.55,"5,14,552","In 2027, in a chaotic world in which women have somehow become infertile, a former activist agrees to help transport a miraculously pregnant woman to a sanctuary at sea."
-501,Wonder,I 2017,113,7.9,66,132.42,"1,72,027","Based on the New York Times bestseller, this movie tells the incredibly inspiring and heartwarming story of August Pullman, a boy with facial differences who enters the fifth grade, attending a mainstream elementary school for the first time."
+501,Wonder,2017,113,7.9,66,132.42,"1,72,027","Based on the New York Times bestseller, this movie tells the incredibly inspiring and heartwarming story of August Pullman, a boy with facial differences who enters the fifth grade, attending a mainstream elementary school for the first time."
 502,District 9,2009,112,7.9,81,115.65,"6,99,157",Violence ensues after an extraterrestrial race forced to live in slum-like conditions on Earth finds a kindred spirit in a government agent exposed to their biotechnology.
 503,Mystic River,2003,138,7.9,84,90.14,"4,70,600",The lives of three men who were childhood friends are shattered when one of them has a family tragedy.
 504,The Philadelphia Story,1940,112,7.9,96,,"71,905","When a rich woman's ex-husband and a tabloid-type reporter turn up just before her planned remarriage, she begins to learn the truth about herself."
@@ -508,7 +508,7 @@
 506,Life of Pi,2012,127,7.9,79,124.99,"6,49,664","A young man who survives a disaster at sea is hurtled into an epic journey of adventure and discovery. While cast away, he forms an unexpected connection with another survivor: a fearsome Bengal tiger."
 507,Edward Scissorhands,1990,105,7.9,74,56.36,"5,06,750",The solitary life of an artificial man - who was incompletely constructed and has scissors for hands - is upended when he is taken in by a suburban family.
 508,This Is Spinal Tap,1984,82,7.9,92,4.74,"1,43,552","Spinal Tap, one of England's loudest bands, is chronicled by film director Marty DiBergi on what proves to be a fateful tour."
-509,Boyhood,I 2014,165,7.9,100,25.38,"3,61,538","The life of Mason, from early childhood to his arrival at college."
+509,Boyhood,2014,165,7.9,100,25.38,"3,61,538","The life of Mason, from early childhood to his arrival at college."
 510,Toy Story 2,1999,92,7.9,88,245.85,"6,00,951","When Woody is stolen by a toy collector, Buzz and his friends set out on a rescue mission to save Woody before he becomes a museum toy property with his roundup gang Jessie, Prospector, and Bullseye."
 511,Carlito's Way,1993,144,7.9,66,36.95,"2,25,948","A Puerto Rican former convict, just released from prison, pledges to stay away from drugs and violence despite the pressure around him and lead on to a better life outside of N.Y.C."
 512,Brazil,1985,132,7.9,84,9.93,"2,06,294",A bureaucrat in a dystopic society becomes an enemy of the state as he pursues the woman of his dreams.
@@ -542,7 +542,7 @@
 540,Togo,2019,113,7.9,69,,"52,579","The story of Togo, the sled dog who led the 1925 serum run despite being considered too small and weak to lead such an intense race."
 541,Harold and Maude,1971,91,7.9,62,,"79,950","Young, rich, and obsessed with death, Harold finds himself changed forever when he meets lively septuagenarian Maude at a funeral."
 542,Sing Street,2016,106,7.9,79,3.24,"97,925",A boy growing up in Dublin during the 1980s escapes his strained family life by starting a band to impress the mysterious girl he likes.
-543,The Artist,I 2011,100,7.9,89,44.67,"2,45,519",An egomaniacal film star develops a relationship with a young dancer against the backdrop of Hollywood's silent era.
+543,The Artist,2011,100,7.9,89,44.67,"2,45,519",An egomaniacal film star develops a relationship with a young dancer against the backdrop of Hollywood's silent era.
 544,The Manchurian Candidate,1962,126,7.9,94,,"77,664",An American POW in the Korean War is brainwashed as an unwitting assassin for an international Communist conspiracy.
 545,The Big Sleep,1946,114,7.9,86,6.54,"88,413","Private detective Philip Marlowe is hired by a wealthy family. Before the complex case is over, he's seen murder, blackmail and what might be love."
 546,Trois couleurs: Bleu,1993,94,7.9,87,1.32,"1,06,876",A woman struggles to find a way to live her life after the death of her husband and child.
@@ -591,11 +591,11 @@
 589,Såsom i en spegel,1961,90,7.9,84,,"26,523","Recently released from a mental hospital, Karin rejoins her emotionally disconnected family in their island home, only to slip from reality as she begins to believe she is being visited by God."
 590,La règle du jeu,1939,110,7.9,99,,"30,374","A bourgeois life in France at the onset of World War II, as the rich and their poor servants meet up at a French chateau."
 591,Dev.D,2009,144,7.9,,0.01,"31,570","After breaking up with his childhood sweetheart, a young man finds solace in drugs. Meanwhile, a teenage girl is caught in the world of prostitution. Will they be destroyed, or will they find redemption?"
-592,No Man's Land,I 2001,98,7.9,84,1.06,"48,084","Bosnia and Herzegovina during 1993 at the time of the heaviest fighting between the two warring sides. Two soldiers from opposing sides in the conflict, Nino and Ciki, become trapped in no man's land, whilst a third soldier becomes a living booby trap."
+592,No Man's Land,2001,98,7.9,84,1.06,"48,084","Bosnia and Herzegovina during 1993 at the time of the heaviest fighting between the two warring sides. Two soldiers from opposing sides in the conflict, Nino and Ciki, become trapped in no man's land, whilst a third soldier becomes a living booby trap."
 593,Super 30,2019,154,7.9,,2.27,"34,529",Based on the life of Patna-based mathematician Anand Kumar who runs the famed Super 30 program for IIT aspirants in Patna.
 594,Badhaai ho,2018,124,7.9,,,"36,357",A man is embarrassed when he finds out his mother is pregnant.
 595,Padman,2018,140,7.9,,1.66,"27,518","Upon realizing the extent to which women are affected by their menses, a man sets out to create a sanitary pad machine and to provide inexpensive sanitary pads to the women of rural India."
-596,Baby,I 2015,159,7.9,,,"59,034","An elite counter-intelligence unit learns of a plot, masterminded by a maniacal madman. With the clock ticking, it's up to them to track the terrorists' international tentacles and prevent them from striking at the heart of India."
+596,Baby,2015,159,7.9,,,"59,034","An elite counter-intelligence unit learns of a plot, masterminded by a maniacal madman. With the clock ticking, it's up to them to track the terrorists' international tentacles and prevent them from striking at the heart of India."
 597,Airlift,2016,130,7.9,,,"58,010","When Iraq invades Kuwait in August 1990, a callous Indian businessman becomes the spokesperson for more than 170,000 stranded countrymen."
 598,Dunkirk,2017,106,7.8,94,188.37,"6,98,509","Allied soldiers from Belgium, the British Commonwealth and Empire, and France are surrounded by the German Army and evacuated during a fierce battle in World War II."
 599,John Wick: Chapter 4,2023,169,7.8,78,,"2,53,713","John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes."
@@ -603,18 +603,18 @@
 601,Everything Everywhere All at Once,2022,139,7.8,81,72.86,"4,67,995",A middle-aged Chinese immigrant is swept up into an insane adventure in which she alone can save existence by exploring other universes and connecting with the lives she could have led.
 602,Little Women,2019,135,7.8,91,108.1,"2,24,357","Jo March reflects back and forth on her life, telling the beloved story of the March sisters - four young women, each determined to live life on her own terms."
 603,Pride & Prejudice,2005,129,7.8,82,38.41,"3,12,693","Sparks fly when spirited Elizabeth Bennet meets single, rich, and proud Mr. Darcy. But Mr. Darcy reluctantly finds himself falling in love with a woman beneath his class. Can each overcome their own pride and prejudice?"
-604,Drive,I 2011,100,7.8,78,35.06,"6,74,111",A mysterious Hollywood action film stuntman gets in trouble with gangsters when he tries to help his neighbor's husband rob a pawn shop while serving as his getaway driver.
+604,Drive,2011,100,7.8,78,35.06,"6,74,111",A mysterious Hollywood action film stuntman gets in trouble with gangsters when he tries to help his neighbor's husband rob a pawn shop while serving as his getaway driver.
 605,The Notebook,2004,123,7.8,53,81,"5,93,448","A poor yet passionate young man falls in love with a rich young woman, giving her a sense of freedom. However, social differences soon get in the way."
 606,The Big Short,2015,130,7.8,81,70.26,"4,54,190","In 2006-2007 a group of investors bet against the United States mortgage market. In their research, they discover how flawed and corrupt the market is."
 607,The Gentlemen,2019,113,7.8,51,36.47,"3,66,423","An American expat tries to sell off his highly profitable marijuana empire in London, triggering plots, schemes, bribery and blackmail in an attempt to steal his domain out from under him."
 608,Im Westen nichts Neues,2022,148,7.8,76,,"2,15,899",A young German soldier's terrifying experiences and distress on the western front during World War I.
-609,About Time,I 2013,123,7.8,55,15.32,"3,68,517","At the age of 21, Tim discovers he can travel in time and change what happens and has happened in his own life. His decision to make his world a better place by getting a girlfriend turns out not to be as easy as you might think."
+609,About Time,2013,123,7.8,55,15.32,"3,68,517","At the age of 21, Tim discovers he can travel in time and change what happens and has happened in his own life. His decision to make his world a better place by getting a girlfriend turns out not to be as easy as you might think."
 610,The Breakfast Club,1985,97,7.8,66,45.88,"4,19,768",Five high school students meet in Saturday detention and discover how they have a great deal more in common than they thought.
 611,Willy Wonka & the Chocolate Factory,1971,100,7.8,67,4,"2,11,951",A poor but hopeful boy seeks one of the five coveted golden tickets that will send him on a tour of Willy Wonka's mysterious chocolate factory.
 612,The Hateful Eight,2015,168,7.8,68,54.12,"6,30,884","In the dead of a Wyoming winter, a bounty hunter and his prisoner find shelter in a cabin currently inhabited by a collection of nefarious characters."
 613,Back to the Future Part II,1989,108,7.8,57,118.5,"5,53,871","After visiting 2015, Marty McFly must repeat his visit to 1955 to prevent disastrous changes to 1985...without interfering with his first trip."
 614,Call Me by Your Name,2017,132,7.8,94,18.1,"2,93,275","In 1980s Italy, romance blossoms between a seventeen-year-old student and the older man hired as his father's research assistant."
-615,Get Out,I 2017,104,7.8,85,176.04,"6,49,440","A young African-American visits his White girlfriend's parents for the weekend, where his simmering uneasiness about their reception of him eventually reaches a boiling point."
+615,Get Out,2017,104,7.8,85,176.04,"6,49,440","A young African-American visits his White girlfriend's parents for the weekend, where his simmering uneasiness about their reception of him eventually reaches a boiling point."
 616,Atonement,2007,123,7.8,85,50.93,"2,89,972",Thirteen-year-old fledgling writer Briony Tallis irrevocably changes the course of several lives when she accuses her older sister's lover of a crime he did not commit.
 617,The Irishman,2019,209,7.8,94,7,"4,09,097","An illustration of Frank Sheeran's life, from W.W.II veteran to hit-man for the Bufalino crime family and his alleged assassination of his close friend Jimmy Hoffa."
 618,Tombstone,1993,130,7.8,50,56.51,"1,57,941","A successful lawman's plans to retire anonymously in Tombstone, Arizona are disrupted by the kind of outlaws he was famous for eliminating."
@@ -639,10 +639,10 @@
 637,Remember the Titans,2000,113,7.8,48,115.65,"2,24,242",The true story of a newly appointed African-American coach and his high school team on their first season as a racially integrated unit.
 638,Cast Away,2000,143,7.8,73,233.63,"6,15,383",A FedEx executive undergoes a physical and emotional transformation after crash landing on a deserted island.
 639,Moonrise Kingdom,2012,94,7.8,84,45.51,"3,60,026","A pair of young lovers flee their New England town, which causes a local search party to fan out to find them."
-640,Close,I 2022,104,7.8,81,,"26,078","The intense friendship between two thirteen-year old boys Leo and Remi suddenly gets disrupted. Struggling to understand what has happened, Léo approaches Sophie, Rémi's mother. ""Close"" is a film about friendship and responsibility."
+640,Close,2022,104,7.8,81,,"26,078","The intense friendship between two thirteen-year old boys Leo and Remi suddenly gets disrupted. Struggling to understand what has happened, Léo approaches Sophie, Rémi's mother. ""Close"" is a film about friendship and responsibility."
 641,A Bronx Tale,1993,121,7.8,80,17.27,"1,51,710",A father becomes worried when a local gangster befriends his son in the Bronx in the 1960s.
 642,Skyfall,2012,143,7.8,81,304.36,"7,14,083","James Bond's loyalty to M is tested when her past comes back to haunt her. When MI6 comes under attack, 007 must track down and destroy the threat, no matter how personal the cost."
-643,Taken,I 2008,90,7.8,51,145,"6,18,149","A retired CIA agent travels across Europe and relies on his old skills to save his estranged daughter, who has been kidnapped while on a trip to Paris."
+643,Taken,2008,90,7.8,51,145,"6,18,149","A retired CIA agent travels across Europe and relies on his old skills to save his estranged daughter, who has been kidnapped while on a trip to Paris."
 644,Verdens verste menneske,2021,128,7.8,90,,"82,883","The chronicles of four years in the life of Julie, a young woman who navigates the troubled waters of her love life and struggles to find her career path, leading her to take a realistic look at who she really is."
 645,Captain America: Civil War,2016,147,7.8,75,408.08,"8,20,591",Political involvement in the Avengers' affairs causes a rift between Captain America and Iron Man.
 646,Misery,1990,107,7.8,75,61.28,"2,23,326","After a famous author is rescued from a car crash by a fan of his novels, he comes to realize that the care he is receiving is only the beginning of a nightmare of captivity and abuse."
@@ -659,7 +659,7 @@
 657,Awakenings,1990,121,7.8,74,52.1,"1,51,004","The victims of an encephalitis epidemic many years ago have been catatonic ever since, but now a new drug offers the prospect of reviving them."
 658,Thirteen Lives,2022,147,7.8,66,,"62,461",A rescue mission is assembled in Thailand where a group of young boys and their soccer coach are trapped in a system of underground caves that are flooding.
 659,The Hobbit: The Desolation of Smaug,2013,161,7.8,66,258.37,"6,83,596","The dwarves, along with Bilbo Baggins and Gandalf the Grey, continue their quest to reclaim Erebor, their homeland, from Smaug. Bilbo Baggins is in possession of a mysterious and magical ring."
-660,The Fighter,I 2010,116,7.8,79,93.62,"3,79,574","Based on the story of Micky Ward, a fledgling boxer who tries to escape the shadow of his more famous but troubled older boxing brother and get his own shot at greatness."
+660,The Fighter,2010,116,7.8,79,93.62,"3,79,574","Based on the story of Micky Ward, a fledgling boxer who tries to escape the shadow of his more famous but troubled older boxing brother and get his own shot at greatness."
 661,Serenity,2005,119,7.8,74,25.51,"3,01,365",The crew of the ship Serenity try to evade an assassin sent to recapture telepath River.
 662,Big Hero 6,2014,102,7.8,74,222.53,"4,82,096","A special bond develops between plus-sized inflatable robot Baymax and prodigy Hiro Hamada, who together team up with a group of friends to form a band of high-tech heroes."
 663,Ang-ma-reul bo-at-da,2010,144,7.8,67,0.13,"1,38,894",A secret agent exacts revenge on a serial killer through a series of captures and releases.
@@ -669,7 +669,7 @@
 667,Paddington 2,2017,103,7.8,88,40.44,"86,386","Paddington, now happily settled with the Brown family and a popular member of the local community, picks up a series of odd jobs to buy the perfect present for his Aunt Lucy's 100th birthday, only for the gift to be stolen."
 668,Gekijouban Jujutsu Kaisen 0,2021,105,7.8,71,34.54,"26,180","Yuta Okkotsu, a high schooler who gains control of an extremely powerful Cursed Spirit and gets enrolled in the Tokyo Prefectural Jujutsu High School by Jujutsu Sorcerers to help him control his power and keep an eye on him."
 669,GATTACA,1997,106,7.8,64,12.34,"3,14,373",A genetically inferior man assumes the identity of a superior one in order to pursue his lifelong dream of space travel.
-670,The Fall,I 2006,117,7.8,64,2.28,"1,14,753","In a hospital on the outskirts of 1920s Los Angeles, an injured stuntman begins to tell a fellow patient, a little girl with a broken arm, a fantastic story of five mythical heroes. Thanks to his fractured state of mind and her vivid imagination, the line between fiction and reality blurs as the tale advances."
+670,The Fall,2006,117,7.8,64,2.28,"1,14,753","In a hospital on the outskirts of 1920s Los Angeles, an injured stuntman begins to tell a fellow patient, a little girl with a broken arm, a fantastic story of five mythical heroes. Thanks to his fractured state of mind and her vivid imagination, the line between fiction and reality blurs as the tale advances."
 671,La montaña sagrada,1973,114,7.8,76,0.06,"45,907","In a corrupt, greed-fueled world, a powerful alchemist leads a messianic character and seven materialistic figures to the Holy Mountain, where they hope to achieve enlightenment."
 672,Walk the Line,2005,136,7.8,72,119.52,"2,59,051","A chronicle of country music legend Johnny Cash's life, from his early days on an Arkansas cotton farm to his rise to fame with Sun Records in Memphis, where he recorded alongside Elvis Presley, Jerry Lee Lewis, and Carl Perkins."
 673,The Day of the Jackal,1973,143,7.8,80,16.06,"42,949","In the aftermath of France allowing Algeria's independence, a group of resentful military veterans hire a professional assassin codenamed ""Jackal"" to kill President Charles de Gaulle."
@@ -705,12 +705,12 @@
 703,Manhattan,1979,96,7.8,83,45.7,"1,43,735",The life of a divorced television writer dating a teenage girl is further complicated when he falls in love with his best friend's mistress.
 704,Batman: Mask of the Phantasm,1993,76,7.8,65,5.62,"54,175",Batman is wrongly implicated in a series of murders of mob bosses actually committed by a new vigilante assassin.
 705,Breaking the Waves,1996,159,7.8,81,4.04,"69,609","Oilman Jan is paralyzed in an accident. His wife, who prayed for his return, feels guilty; even more, when Jan urges her to have sex with another."
-706,Once,I 2007,86,7.8,90,9.44,"1,19,263","A modern-day musical about a busker and an immigrant and their eventful week in Dublin, as they write, rehearse and record songs that tell their love story."
+706,Once,2007,86,7.8,90,9.44,"1,19,263","A modern-day musical about a busker and an immigrant and their eventful week in Dublin, as they write, rehearse and record songs that tell their love story."
 707,Guess Who's Coming to Dinner,1967,108,7.8,63,56.7,"47,432",A couple's attitudes are challenged when their daughter introduces them to her African-American fiancé.
 708,East of Eden,1955,118,7.8,72,,"47,506","Two brothers in 1910s California struggle to maintain their strict, Bible-toting father's favor as an old secret about their long-absent mother comes to light."
 709,Loving Vincent,2017,94,7.8,62,6.74,"60,975","In a story depicted in oil painted animation, a young man comes to the last hometown of painter Vincent van Gogh to deliver the troubled artist's final letter and ends up investigating his final days there."
 710,Mimi wo sumaseba,1995,111,7.8,75,,"67,650","A love story between a girl who loves reading books, and a boy who has previously checked out all of the library books she chooses."
-711,Pride,I 2014,119,7.8,79,,"60,002",U.K. gay activists work to help miners during their lengthy strike of the National Union of Mineworkers in the summer of 1984.
+711,Pride,2014,119,7.8,79,,"60,002",U.K. gay activists work to help miners during their lengthy strike of the National Union of Mineworkers in the summer of 1984.
 712,Freaks,1932,64,7.8,80,0.63,"48,616","A circus' beautiful trapeze artist agrees to marry the leader of side-show performers, but his deformed friends discover she is only marrying him for his inheritance."
 713,Lilja 4-ever,2002,109,7.8,83,0.18,"47,527","Sixteen-year-old Lilja and her only friend, the young boy Volodja, live in Russia, fantasizing about a better life. One day, Lilja falls in love with Andrej, who is going to Sweden, and invites Lilja to come along and start a new life."
 714,Chugyeokja,2008,125,7.8,64,,"69,807",A disgraced ex-policeman who runs a small ring of prostitutes finds himself in a race against time when one of his women goes missing.
@@ -759,7 +759,7 @@
 757,Mission: Impossible - Fallout,2018,147,7.7,86,220.16,"3,58,868","Ethan Hunt and his IMF team, along with some familiar allies, race against time after a mission gone wrong."
 758,The Whale,2022,117,7.7,60,,"1,65,969","A reclusive, morbidly obese English teacher attempts to reconnect with his estranged teenage daughter."
 759,The Banshees of Inisherin,2022,114,7.7,87,,"2,20,025","Two lifelong friends find themselves at an impasse when one abruptly ends their relationship, with alarming consequences for both of them."
-760,Aftersun,II 2022,102,7.7,95,,"70,047",Sophie reflects on the shared joy and private melancholy of a holiday she took with her father twenty years earlier. Memories real and imagined fill the gaps between as she tries to reconcile the father she knew with the man she didn't...
+760,Aftersun,2022,102,7.7,95,,"70,047",Sophie reflects on the shared joy and private melancholy of a holiday she took with her father twenty years earlier. Memories real and imagined fill the gaps between as she tries to reconcile the father she knew with the man she didn't...
 761,Sicario,2015,121,7.7,82,46.89,"4,50,770",An idealistic FBI agent is enlisted by a government task force to aid in the escalating war against drugs at the border area between the U.S. and Mexico.
 762,The Goonies,1985,114,7.7,62,61.5,"2,87,606",A group of young misfits called The Goonies discover an ancient map and set out on an adventure to find a legendary pirate's long-lost treasure.
 763,Man on Fire,2004,146,7.7,47,77.91,"3,75,044","In Mexico City, a former CIA operative swears vengeance on those who committed an unspeakable act against the family he was hired to protect."
@@ -785,7 +785,7 @@
 783,Deliverance,1972,109,7.7,80,7.06,"1,15,449","Intent on seeing the Cahulawassee River before it's dammed and turned into a lake, outdoor fanatic Lewis Medlock takes his friends on a canoeing trip they'll never forget into the dangerous American back-country."
 784,The Game,1997,129,7.7,63,48.32,"4,12,820","After a wealthy San Francisco banker is given an opportunity to participate in a mysterious game, his life is turned upside down as he begins to question if it might really be a concealed conspiracy to destroy him."
 785,Blue Velvet,1986,120,7.7,76,8.55,"2,07,984","The discovery of a severed human ear found in a field leads a young man on an investigation related to a beautiful, mysterious nightclub singer and a group of psychopathic criminals who have kidnapped her child."
-786,Apollo 13,I 1995,140,7.7,77,173.84,"3,05,800",NASA must devise a strategy to return Apollo 13 to Earth safely after the spacecraft undergoes massive internal damage putting the lives of the three astronauts on board in jeopardy.
+786,Apollo 13,1995,140,7.7,77,173.84,"3,05,800",NASA must devise a strategy to return Apollo 13 to Earth safely after the spacecraft undergoes massive internal damage putting the lives of the three astronauts on board in jeopardy.
 787,3:10 to Yuma,2007,122,7.7,76,53.61,"3,22,981",A small-time rancher agrees to hold a captured outlaw who's awaiting a train to go to court in Yuma. A battle of wills ensues as the outlaw tries to psych out the rancher.
 788,Brokeback Mountain,2005,134,7.7,87,83.04,"3,70,434",Ennis and Jack are two shepherds who develop a sexual and emotional relationship. Their relationship becomes complicated when both of them get married to their respective girlfriends.
 789,Training Day,2001,122,7.7,69,76.63,"4,53,998",A rookie cop spends his first day as a Los Angeles narcotics officer with a rogue detective who isn't what he appears to be.
@@ -811,7 +811,7 @@
 809,Argo,2012,120,7.7,86,136.03,"6,27,864","Acting under the cover of a Hollywood producer scouting a location for a science fiction film, a CIA agent launches a dangerous operation to rescue six Americans in Tehran during the U.S. hostage crisis in Iran in 1979."
 810,What's Eating Gilbert Grape,1993,118,7.7,73,9.17,"2,45,980",A young man in a small Midwestern town struggles to care for his mentally-disabled younger brother and morbidly obese mother while attempting to pursue his own happiness.
 811,Who Framed Roger Rabbit,1988,104,7.7,83,156.45,"2,09,862",A toon-hating detective is a cartoon rabbit's only hope to prove his innocence when he is accused of murder.
-812,Crash,I 2004,112,7.7,66,54.58,"4,43,653","Los Angeles citizens with vastly separate lives collide in interweaving stories of race, loss and redemption."
+812,Crash,2004,112,7.7,66,54.58,"4,43,653","Los Angeles citizens with vastly separate lives collide in interweaving stories of race, loss and redemption."
 813,Detachment,2011,98,7.7,52,0.07,"93,233",A substitute teacher who drifts from classroom to classroom finds a connection to the students and teachers during his latest assignment.
 814,Wreck-It Ralph,2012,101,7.7,72,189.42,"4,41,831","A video game villain wants to be a hero and sets out to fulfill his dream, but his quest brings havoc to the whole arcade where he lives."
 815,Sound of Metal,2019,120,7.7,82,,"1,39,693",A heavy metal drummer's life is turned upside down when he begins to lose his hearing and he must confront a future filled with silence.
@@ -832,12 +832,12 @@
 830,Serpico,1973,130,7.7,81,29.8,"1,29,465",An honest New York cop named Frank Serpico blows the whistle on rampant corruption in the force only to have his comrades turn against him.
 831,Dirty Harry,1971,102,7.7,87,35.9,"1,63,225","When a man calling himself ""the Scorpio Killer"" menaces San Francisco, tough-as-nails Police Inspector ""Dirty"" Harry Callahan is assigned to track down the crazed psychopath."
 832,When Harry Met Sally...,1989,95,7.7,76,92.82,"2,30,346","Harry and Sally have known each other for years, and are very good friends, but they fear sex would ruin the friendship."
-833,Flipped,I 2010,90,7.7,45,1.75,"94,218",Two eighth-graders start to have feelings for each other despite being total opposites.
+833,Flipped,2010,90,7.7,45,1.75,"94,218",Two eighth-graders start to have feelings for each other despite being total opposites.
 834,Glengarry Glen Ross,1992,100,7.7,82,10.73,"1,11,613",An examination of the machinations behind the scenes at a real estate office.
 835,The Magnificent Seven,1960,128,7.7,74,4.91,"99,132",Seven gunfighters are hired by Mexican peasants to liberate their village from oppressive bandits.
 836,The French Connection,1971,104,7.7,94,15.63,"1,29,016","A pair of NYPD detectives in the Narcotics Bureau stumble onto a heroin smuggling ring based in Marseilles, but stopping them and capturing their leaders proves an elusive goal."
 837,Being John Malkovich,1999,113,7.7,90,22.86,"3,45,794",A puppeteer discovers a portal that leads literally into the head of movie star John Malkovich.
-838,Ray,I 2004,152,7.7,73,75.33,"1,53,269","The story of the life and career of the legendary rhythm and blues musician Ray Charles, from his humble beginnings in the South, where he went blind at age seven, to his meteoric rise to stardom during the 1950s and 1960s."
+838,Ray,2004,152,7.7,73,75.33,"1,53,269","The story of the life and career of the legendary rhythm and blues musician Ray Charles, from his humble beginnings in the South, where he went blind at age seven, to his meteoric rise to stardom during the 1950s and 1960s."
 839,This Is England,2006,101,7.7,86,0.33,"1,25,743","A young boy becomes friends with a gang of skinheads. Friends soon become like family, and relationships will be pushed to the very limit."
 840,Goldfinger,1964,110,7.7,87,51.08,"1,96,952","While investigating a gold magnate's smuggling, James Bond uncovers a plot to contaminate the Fort Knox gold reserve."
 841,Ordinary People,1980,124,7.7,86,54.8,"54,849","The accidental death of the older son of an affluent family deeply strains the relationships among the bitter mother, the good-natured father and the guilt-ridden younger son."
@@ -949,7 +949,7 @@
 947,What We Do in the Shadows,2014,86,7.6,76,3.33,"1,91,888","Viago, Deacon, and Vladislav are vampires who are struggling with the mundane aspects of modern life, like paying rent, keeping up with the chore wheel, trying to get into nightclubs, and overcoming flatmate conflicts."
 948,Stardust,2007,127,7.6,66,38.63,"2,78,725","In a countryside town bordering on a magical land, a young man makes a promise to his beloved that he'll retrieve a fallen star by venturing into the magical realm."
 949,Minority Report,2002,145,7.6,80,132.07,"5,69,049","In a future where a special police unit is able to arrest murderers before they commit their crimes, an officer from that unit is himself accused of a future murder."
-950,Hell or High Water,II 2016,102,7.6,88,26.86,"2,41,177","Toby is a divorced father who's trying to make a better life. His brother is an ex-con with a short temper and a loose trigger finger. Together, they plan a series of heists against the bank that's about to foreclose on their family ranch."
+950,Hell or High Water,2016,102,7.6,88,26.86,"2,41,177","Toby is a divorced father who's trying to make a better life. His brother is an ex-con with a short temper and a loose trigger finger. Together, they plan a series of heists against the bank that's about to foreclose on their family ranch."
 951,Kung Fu Panda,2008,92,7.6,74,215.43,"4,94,504","To everyone's surprise, including his own, Po, an overweight, clumsy panda, is chosen as protector of the Valley of Peace. His suitability will soon be tested as the valley's arch-enemy is on his way."
 952,My Cousin Vinny,1992,120,7.6,68,52.93,"1,34,043","Two New Yorkers accused of murder in rural Alabama while on their way back to college call in the help of one of their cousins, a loudmouth lawyer with no trial experience."
 953,Star Wars: Episode III - Revenge of the Sith,2005,140,7.6,68,380.26,"8,18,468","Three years into the Clone Wars, Obi-Wan pursues a new threat, while Anakin is lured by Chancellor Palpatine into a sinister plot to rule the galaxy."
@@ -962,12 +962,12 @@
 960,True Grit,2010,110,7.6,80,171.24,"3,49,326",A stubborn teenager enlists the help of a tough U.S. Marshal to track down her father's murderer.
 961,Mulan,1998,87,7.6,71,120.62,"3,02,791","To save her father from death in the army, a young maiden secretly goes in his place and becomes one of China's greatest heroines in the process."
 962,The Mitchells vs the Machines,2021,114,7.6,81,,"1,18,830","A quirky, dysfunctional family's road trip is upended when they find themselves in the middle of the robot apocalypse and suddenly become humanity's unlikeliest last hope."
-963,After Hours,I 1985,97,7.6,90,10.6,"75,226",An ordinary word processor has the worst night of his life after he agrees to visit a girl in Soho he met that evening at a coffee shop.
+963,After Hours,1985,97,7.6,90,10.6,"75,226",An ordinary word processor has the worst night of his life after he agrees to visit a girl in Soho he met that evening at a coffee shop.
 964,The Fly,1986,96,7.6,79,40.46,"1,92,980",A brilliant but eccentric scientist begins to transform into a giant man/fly hybrid after one of his experiments goes horribly wrong.
 965,Gone Baby Gone,2007,114,7.6,72,20.3,"2,81,830","Two Boston area detectives investigate a little girl's kidnapping, which ultimately turns into a crisis both professionally and personally."
 966,Die Hard with a Vengeance,1995,128,7.6,58,100.01,"3,98,139","John McClane and a Harlem store owner are targeted by German terrorist Simon in New York City, where he plans to rob the Federal Reserve Building."
 967,Mad Max 2,1981,96,7.6,77,12.47,"1,87,560","In the post-apocalyptic Australian wasteland, a cynical drifter agrees to help a small, gasoline-rich community escape a horde of bandits."
-968,Searching,III 2018,102,7.6,71,26.02,"1,74,340","After his teenage daughter goes missing, a desperate father tries to find clues on her laptop."
+968,Searching,2018,102,7.6,71,26.02,"1,74,340","After his teenage daughter goes missing, a desperate father tries to find clues on her laptop."
 969,Despicable Me,2010,95,7.6,72,251.51,"5,65,343","When a criminal mastermind uses a trio of orphan girls as pawns for a grand scheme, he finds their love is profoundly changing him for the better."
 970,Snow White and the Seven Dwarfs,1937,83,7.6,96,184.93,"2,07,946","Exiled into the dangerous forest by her wicked stepmother, a princess is rescued by seven dwarf miners who make her part of their household."
 971,Eastern Promises,2007,100,7.6,83,17.11,"2,52,676",A teenager who dies during childbirth leaves clues in her journal that could tie her child to a rape involving a violent Russian mob family.
